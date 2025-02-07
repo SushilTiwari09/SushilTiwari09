@@ -33,18 +33,19 @@ Welcome to my GitHub profile! I'm a final-year Computer Science and Engineering 
 - Contribute more to **open-source projects**.
 
 ---
-
-## 📂 Projects
+<!--
+ 📂 Projects
 
 Here are some of the projects I've worked on:
 
 1. **Project 1**: [Project Name](Link) - Short description of the project.
-2. **Project 2**: [Project Name](Link) - Short description of the project.
+2. **P##roject 2**: [Project Name](Link) - Short description of the project.
 3. **Project 3**: [Project Name](Link) - Short description of the project.
 
 *(Replace with your actual projects and links)*
 
----
+--- 
+-->
 
 ## 📫 Let's Connect
 
