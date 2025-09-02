@@ -52,7 +52,7 @@ Here are some of the projects I've worked on:
 I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out to me:
 
 - **LinkedIn**: [Sushil Tiwari](Your LinkedIn Profile Link)
-- **Email**: sushiltiwari@myyahoo.com
+- **Email**: sushiltiwarimy@gmail.com
 - **Twitter**: [@YourHandle](Your Twitter Profile Link)
  
 
