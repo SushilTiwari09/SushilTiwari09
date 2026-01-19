@@ -61,7 +61,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 ## ⚡ Fun Fact
 
-When I'm not coding, I enjoy [your hobby, e.g., playing guitar, gaming, or reading books].
+When I’m not coding, I enjoy making messy data look beautiful 📊🎨
 
 ---
 
