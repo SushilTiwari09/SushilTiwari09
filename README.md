@@ -53,7 +53,7 @@ I'm always open to collaborating on interesting projects or discussing tech. Fee
 
 - **LinkedIn**: [Sushil Tiwari](Your LinkedIn Profile Link)
 - **Email**: sushiltiwarimy@gmail.com
-- **Email**:susheeltiwari@zoho.in
+- **Email**: sushiltiwarri@gmail.com
 - **Twitter**: [@YourHandle](Your Twitter Profile Link)
  
 
